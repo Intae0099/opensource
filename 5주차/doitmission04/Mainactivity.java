@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        setTitle("mission04 2018038033 김태인");
 
         editText = findViewById(R.id.editTextTextPersonName2);
         textView = findViewById(R.id.textView3);
