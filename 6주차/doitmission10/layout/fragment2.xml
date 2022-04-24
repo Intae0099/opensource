@@ -6,11 +6,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#523469">
+    android:background="#654321">
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/button2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="첫번째" />
+        android:text="두번째" />
 </LinearLayout>
